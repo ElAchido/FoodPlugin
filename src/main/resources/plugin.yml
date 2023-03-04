@@ -1,0 +1,6 @@
+name: Drogas
+version: '${project.version}'
+main: com.hytacraft.drogas.Drogas
+api-version: 1.19
+commands:
+  drogas:

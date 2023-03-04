@@ -1,0 +1,12 @@
+drogas:
+  droga1:
+    display-name: "&cCoca"
+    material: SUGAR
+    message: "&cAcabas de consumir coca."
+    lore:
+      - ""
+      - " &fEfectos&8: &4&lMareo"
+    glow: true
+    effects:
+      # EFFECT:AMPLIFIER:DURATION
+      - "CONFUSION:2:30"
